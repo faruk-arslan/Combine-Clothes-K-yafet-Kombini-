@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/header_tv"
+        android:layout_width="142dp"
+        android:layout_height="53dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/tag_background"
+        android:text="Tag"
+        android:textAlignment="center"
+        android:paddingTop="12dp"
+        android:textColor="#6A927F" />
+</RelativeLayout>
